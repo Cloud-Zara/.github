@@ -62,8 +62,10 @@ Issues and pull requests are welcome on any public repository. Please keep them 
 
 ---
 
+⭐ Follow **CloudZara** on GitHub for updates and projects.
+
+---
 <div align="center">
 <sub>© Cloudzara Innovations · <a href="https://cloudzara.com">cloudzara.com</a></sub>
 </div>
 
-⭐ Follow **CloudZara** on GitHub for updates and projects.
