@@ -58,7 +58,7 @@ Issues and pull requests are welcome on any public repository. Please keep them 
 
 - **Have a project?** [Send a brief](https://cloudzara.com/start-project). A project lead replies within one business day.
 - **Want to join?** We hire across engineering, design, SEO and marketing, sales and operations, from interns to senior engineers. [See open roles](https://cloudzara.com/career).
-- **Anything else:** [info@cloudzara.com](mailto:info@clou
+- **Anything else:** [info@cloudzara.com](mailto:info@cloudzara.com)
 
 ---
 
